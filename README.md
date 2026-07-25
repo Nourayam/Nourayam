@@ -1,16 +1,57 @@
-## Hi there 👋
+# N • AI Governance & Safety Engineering
 
-<!--
-**Nourayam/Nourayam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Building systems that make AI **safe, accountable, and governable**.
 
-Here are some ideas to get you started:
+I work at the intersection of **software engineering**, **AI safety**, and **governance research** — creating tools that operationalise policy principles into real, testable systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 Current Work
+- **RedSentinel** — multi‑backend AI safety evaluation framework  
+- **AI Policy Sandbox** — simulation environment for autonomy limits & compliance rules  
+- **QA Automation** — real‑time defect detection using CV + ML  
+- **Distributed Systems Engine** — consensus & fault‑tolerance visualisation  
+- **LogiFlow** — interactive algorithm visualisation platform  
+
+---
+
+## 🎓 Research Interests
+- AI governance & responsible innovation  
+- Safety evaluation frameworks  
+- Policy‑driven constraints for autonomous systems  
+- Transparency, explainability & auditability  
+- Simulation‑based compliance testing  
+
+---
+
+## ✍️ Writing & Research Notes
+I maintain a growing collection of governance‑focused writing in [`/writing`](https://github.com/nourayam/writing):
+
+- *Operationalising AI Safety in Real Systems*  
+- *Governance Simulation as a Policy Tool*  
+- *Comparative Approaches to AI Regulation*  
+- *Literature Review: Institutional Responses to Emerging Technologies*  
+
+---
+
+## 🛠️ Tools & Technologies
+**Languages:** Python, TypeScript  
+**Frameworks:** FastAPI, React  
+**ML / CV:** PyTorch, OpenCV  
+**Systems:** Docker, GitHub Actions  
+**Domains:** Safety testing, distributed systems, policy engines  
+
+---
+
+## 📌 Featured Projects
+- **RedSentinel** — AI safety evaluation  
+- **AI Policy Sandbox** — governance simulation  
+- **QA Automation** — defect detection  
+- **Distributed Systems Engine** — consensus testing  
+
+---
+
+## 📫 Connect
+**LinkedIn:** https://www.linkedin.com/in/nourayam-boulhaia-98854124a/ 
+
+> *“Governance isn’t just policy — it’s architecture.”*
