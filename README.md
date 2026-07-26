@@ -13,25 +13,24 @@
 </p>
 
 <p align="center">
-  I work at the intersection of <b>software engineering</b>, <b>AI safety</b>, and <b>governance research</b> —
+  I work at the intersection of <b>software engineering</b>, <b>AI safety</b>, and <b>governance</b> —
   creating tools that operationalise policy principles into real, testable systems.
 </p>
 
 <br/>
 
-## Current Work
+## 🚧 Current Work
 
 | Project | What it does |
 |---|---|
-| **RedSentinel** | Multi-backend AI safety evaluation framework |
-| **AI Policy Sandbox** | Simulation environment for autonomy limits & compliance rules |
-| **QA Automation** | Real-time defect detection using CV + ML |
-| **Distributed Systems Engine** | Consensus & fault-tolerance visualisation |
-| **LogiFlow** | Interactive algorithm visualisation platform |
+| 🛡️ **RedSentinel** | Multi-backend AI safety evaluation framework |
+| 🔍 **QA Automation** | Real-time defect detection using CV + ML |
+| 🕸️ **Distributed Systems Engine** | Consensus & fault-tolerance visualisation |
+| 📊 **LogiFlow** | Interactive algorithm visualisation platform |
 
 <br/>
 
-## Research Interests
+## 🔬 Research Interests
 
 - AI governance & responsible innovation
 - Safety evaluation frameworks
@@ -41,7 +40,7 @@
 
 <br/>
 
-## Writing & Research Notes
+## ✍️ Writing & Research Notes
 
 I maintain a growing collection of governance-focused writing in [`/writing`](https://github.com/nourayam/writing):
 
@@ -52,7 +51,7 @@ I maintain a growing collection of governance-focused writing in [`/writing`](ht
 
 <br/>
 
-## Tools & Technologies
+## 🛠️ Tools & Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -69,38 +68,11 @@ I maintain a growing collection of governance-focused writing in [`/writing`](ht
 
 <br/>
 
-## Featured Projects
+## 📌 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/nourayam/redsentinel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nourayam&repo=redsentinel&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Nourayam/QAAutomation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nourayam&repo=ai-policy-sandbox&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Nourayam/Distributed-Systems-Engine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nourayam&repo=qa-automation&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Nourayam/LogiFlow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nourayam&repo=distributed-systems-engine&theme=tokyonight" />
-  </a>
-</p>
-
-<br/>
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nourayam&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourayam&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nourayam&theme=tokyonight&hide_border=true" />
-</p>
+- 🛡️ [**RedSentinel**](https://github.com/Nourayam/RedSentinel) — multi-backend AI safety evaluation framework
+- 🔍 [**QA Automation**](https://github.com/Nourayam/QAAutomation) — real-time defect detection using CV + ML
+- 🕸️ [**Distributed Systems Engine**](https://github.com/Nourayam/Distributed-Systems-Engine) — consensus & fault-tolerance visualisation
 
 <br/>
 
