@@ -19,18 +19,18 @@
 
 <br/>
 
-## 🚧 Current Work
+## Current Work
 
 | Project | What it does |
 |---|---|
-| 🛡️ **RedSentinel** | Multi-backend AI safety evaluation framework |
-| 🔍 **QA Automation** | Real-time defect detection using CV + ML |
-| 🕸️ **Distributed Systems Engine** | Consensus & fault-tolerance visualisation |
-| 📊 **LogiFlow** | Interactive algorithm visualisation platform |
+| **RedSentinel** | Multi-backend AI safety evaluation framework |
+| **QA Automation** | Real-time defect detection using CV + ML |
+| **Distributed Systems Engine** | Consensus & fault-tolerance visualisation |
+| **LogiFlow** | Interactive algorithm visualisation platform |
 
 <br/>
 
-## 🔬 Research Interests
+## Research Interests
 
 - AI governance & responsible innovation
 - Safety evaluation frameworks
@@ -40,7 +40,7 @@
 
 <br/>
 
-## ✍️ Writing & Research Notes
+## Writing & Research Notes
 
 I maintain a growing collection of governance-focused writing in [`/writing`](https://github.com/nourayam/writing):
 
@@ -51,7 +51,7 @@ I maintain a growing collection of governance-focused writing in [`/writing`](ht
 
 <br/>
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -68,11 +68,11 @@ I maintain a growing collection of governance-focused writing in [`/writing`](ht
 
 <br/>
 
-## 📌 Featured Projects
+## Featured Projects
 
-- 🛡️ [**RedSentinel**](https://github.com/Nourayam/RedSentinel) — multi-backend AI safety evaluation framework
-- 🔍 [**QA Automation**](https://github.com/Nourayam/QAAutomation) — real-time defect detection using CV + ML
-- 🕸️ [**Distributed Systems Engine**](https://github.com/Nourayam/Distributed-Systems-Engine) — consensus & fault-tolerance visualisation
+- [**RedSentinel**](https://github.com/Nourayam/RedSentinel) — multi-backend AI safety evaluation framework
+- [**QA Automation**](https://github.com/Nourayam/QAAutomation) — real-time defect detection using CV + ML
+- [**Distributed Systems Engine**](https://github.com/Nourayam/Distributed-Systems-Engine) — consensus & fault-tolerance visualisation
 
 <br/>
 
