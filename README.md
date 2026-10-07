@@ -85,5 +85,5 @@ I maintain a growing collection of governance-focused writing in [`/writing`](ht
 </p>
 
 <p align="center">
-  <i>"Governance isn't just policy — it's architecture."</i>
+  <i>Governance isn't just policy — it's architecture.</i>
 </p>
